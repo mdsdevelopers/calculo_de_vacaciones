@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoDeVacaciones2010", "CalculoDeVacaciones2010\CalculoDeVacaciones2010.csproj", "{A2844BF7-8B10-470E-9EA0-FB06BD422B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoDeVacacionesTest", "CalculoDeVacacionesTest\CalculoDeVacacionesTest.csproj", "{C65E7EF6-53B3-4F55-B9D3-FB5F6BBAF646}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36DDB9A2-33C4-4172-BACD-12474F951173}"
+	ProjectSection(SolutionItems) = preProject
+		CalculoDeVacaciones2010.vsmdi = CalculoDeVacaciones2010.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CalculoDeVacaciones2010.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2844BF7-8B10-470E-9EA0-FB06BD422B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2844BF7-8B10-470E-9EA0-FB06BD422B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2844BF7-8B10-470E-9EA0-FB06BD422B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2844BF7-8B10-470E-9EA0-FB06BD422B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65E7EF6-53B3-4F55-B9D3-FB5F6BBAF646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65E7EF6-53B3-4F55-B9D3-FB5F6BBAF646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65E7EF6-53B3-4F55-B9D3-FB5F6BBAF646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65E7EF6-53B3-4F55-B9D3-FB5F6BBAF646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
